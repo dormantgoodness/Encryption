@@ -26,15 +26,7 @@ This C++ program allows users to encrypt and decrypt messages using a shift ciph
    - Decrypts the message using all shift values.
    - Compares the results with common English words to determine the most likely original text.
 
-## Usage
-Compile the program using a C++ compiler, such as g++:
-```sh
- g++ -o cipher cipher.cpp
-```
-Run the program:
-```sh
- ./cipher
-```
+
 Follow the on-screen menu to select an option and input messages.
 
 ## Example
